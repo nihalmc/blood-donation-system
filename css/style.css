@@ -95,14 +95,15 @@ header{
     text-transform:uppercase;
     margin: 0.5rem 0 1.4rem;
 }
-.btn{
+.btns{
     padding: 7px 16px;
     border: 2px solid var(--second-color);
     border-radius: 40px;
     color: var(--second-color);
     font-weight: 500;
+    text-decoration: none;
 }
-.btn:hover{
+.btns:hover{
     color: #fff;
     background: var(--main-color); 
 }
